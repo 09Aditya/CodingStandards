@@ -1,4 +1,3 @@
-# 📝 Pull Request Template
 
 ## 📌 Description
 > Describe what your PR does and why it’s needed.
