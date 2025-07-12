@@ -1,7 +1,11 @@
-### ✅ Pull Request Checklist
 
-- [ ] Code is linted (`npm run lint`)
-- [ ] Tests are passing (`npm run test`)
-- [ ] Function input/output handled properly
-- [ ] No secrets or logs exposed
-- [ ] No commented or dead code
+## 📌 Description
+> Describe what your PR does and why it’s needed.
+
+## ✅ Checklist
+
+- [ ] Code compiles without errors
+- [ ] Linting passed (`npm run lint`)
+- [ ] Unit tests passed (`npm test`)
+- [ ] PR includes meaningful description
+- [ ] No console.log or debug statements
